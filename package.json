@@ -1,0 +1,44 @@
+{
+  "name": "coders.sqlite",
+  "version": "1.0.0",
+  "description": "A lightweight, promise based SQLite wrapper for Node.js with advanced type handling and automatic fallbacks",
+  "author": "Coders",
+  "license": "MIT",
+  "main": "main.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coders908/coders.db.git"
+  },
+  "homepage": "https://github.com/coders908/coders.db#readme",
+  "bugs": {
+    "url": "https://github.com/coders908/coders.db/issues"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "sqlite",
+    "sqlite3",
+    "storage",
+    "promise",
+    "async",
+    "key-value",
+    "discord",
+    "wrapper",
+    "json",
+    "persistent"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  },
+  "files": [
+    "main.js",
+    "src/",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ]
+}

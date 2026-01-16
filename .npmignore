@@ -1,0 +1,17 @@
+.git/
+.github/
+.gitignore
+.vscode/
+.idea/
+*.sqlite
+*.sqlite3
+*.db
+*.backup.*
+db.backup.*
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+node_modules/
+package-lock.json

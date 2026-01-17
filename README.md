@@ -3,6 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/coders.sqlite.svg)](https://www.npmjs.com/package/coders.sqlite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/node/v/coders.sqlite.svg)](https://nodejs.org)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoders908%2Fcoders.sqlite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoders908%2Fcoders.sqlite?ref=badge_shield)
 
 A lightweight, promise-based SQLite wrapper for Node.js with advanced type handling and automatic fallbacks. Perfect for Discord bots, small web apps, and rapid prototyping where you need persistent key-value storage without the overhead of a full database setup.
 
@@ -195,6 +196,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoders908%2Fcoders.sqlite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoders908%2Fcoders.sqlite?ref=badge_large)
 
 ## 👤 Author
 
